@@ -1,3 +1,4 @@
 Hello Git!
 這是我的第一個 Git 練習。
 這是從 GitHub 網頁新增的內容
+這是從GitCMD新增的內容
